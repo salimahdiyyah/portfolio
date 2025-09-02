@@ -9,12 +9,10 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Salimah Mahdiyyah </span>
-            from <span className="purple"> Bekasi, Indonesia.</span>
             <br />
-            I have just completed an intensive data analysis and software engineering program by Kampus Merdeka x RevoU, where I gained a strong foundation in learning statistical analysis, data visualization in Google Data Studio (Looker Studio) and Google BigQuery.
+            A passionate Informatics Engineering graduate with hands-on experience in data analysis and software development. My diverse background has equipped me with the skills to effectively transform data into strategic business insights while also creating and implementing functional applications.
             <br />
-
-            I also learned how to create web interactive, such as figma, nodejs, expressjs, cyclic, railway as well as programming languages such as Python, SQL, HTML, CSS, and javascript.
+            I am a highly motivated and committed individual, always eager to contribute to innovative projects that make a positive difference.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
