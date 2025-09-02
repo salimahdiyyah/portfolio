@@ -28,7 +28,7 @@ function Home2() {
               <br />
               I want to leverage my skills and expertise to drive&nbsp;
               <i>
-                <b className="purple">data-driven decision making </b> and
+                <b className="purple">data driven decision making </b> and
                 unlock the potential of{" "}
                 <b className="purple">
                 creating the web interactive
